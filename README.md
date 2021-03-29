@@ -8,7 +8,7 @@
   <a href= "https://github.com/gaungalif/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
   </a>
-  <a href= "https://www.linkedin.com/in/bryanjenks/">
+  <a href= "https://www.linkedin.com/in/gaungalif/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
   <a href= "https://twitter.com/gaungalif">
