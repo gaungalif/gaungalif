@@ -1,5 +1,6 @@
 <!-- Social Section -->
 <p align="center">
+  <i>Welcome to my Profile!</i>
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
